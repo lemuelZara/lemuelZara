@@ -2,8 +2,6 @@
 
 <br>
 
-![](https://visitor-badge.glitch.me/badge?page_id=lemuelZara.lemuelZara)
-
 ```powershell
 PS C:\Windows\system32> & "C:\dev\script.ps1"
 ```
@@ -20,6 +18,12 @@ para o backend com Node.js e na parte do frontend com o React.js.
 #### O que estou aprendendo? <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="30">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="30">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React.js" width="30">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="30">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" width="70">
+
+<br>
+
+![Lemuel GitHub Stats](https://github-readme-stats.vercel.app/api?username=lemuelZara&hide=["stars"]&show_icons=true)
+
+<br>
 
 #### Entre em contato comigo!
 
