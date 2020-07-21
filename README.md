@@ -2,6 +2,8 @@
 
 <br>
 
+![](https://visitor-badge.glitch.me/badge?page_id=lemuelZara.lemuelZara)
+
 ```powershell
 PS C:\Windows\system32> & "C:\dev\script.ps1"
 ```
