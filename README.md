@@ -23,4 +23,5 @@ para o backend com Node.js e na parte do frontend com o React.js.
 
 <a href="https://www.linkedin.com/in/lemuelZara/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
