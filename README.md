@@ -1,12 +1,14 @@
 ### Olá pessoal! 👋
+```powershell
+PS C:\Windows\system32> & "C:\lemuel\dev.ps1"
 
-```
-Tudo bem com vocês? Me chamo Lemuel Coelho Zara, tenho 20 anos, estou no 6º Semestre do curso
+- running script...
+
+"Tudo bem com vocês? Me chamo Lemuel Coelho Zara, tenho 20 anos, estou no 6º Semestre do curso
 de Análise e Desenvolvimento de Sistemas no IFSP - Campus Votuporanga.
-```
-```
+
 Atualmente estou estudando a linguagem JavaScript, e realizando o desenvolvimento de aplicações
-para o backend com Node.js e na parte do frontend com o React.js.
+para o backend com Node.js e na parte do frontend com o React.js."
 ```
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
