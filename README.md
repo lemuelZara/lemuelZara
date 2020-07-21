@@ -23,8 +23,6 @@ para o backend com Node.js e na parte do frontend com o React.js.
 
 ![Lemuel GitHub Stats](https://github-readme-stats.vercel.app/api?username=lemuelZara&hide=["stars"]&show_icons=true)
 
-<br>
-
 #### Entre em contato comigo!
 
 <a href="https://www.linkedin.com/in/lemuelZara/">
