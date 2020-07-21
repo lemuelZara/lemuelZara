@@ -3,7 +3,7 @@
 PS C:\Windows\system32> & "C:\dev\script.ps1"
 ```
 ```text
-- ⌛️ running script... Success ✅
+- ⌛️ 𝗿𝘂𝗻𝗻𝗶𝗻𝗴 𝘀𝗰𝗿𝗶𝗽𝘁... 𝗦𝘂𝗰𝗰𝗲𝘀𝘀 ✅
 
 Tudo bem com vocês? Me chamo Lemuel Coelho Zara, tenho 20 anos, estou no 6º Semestre do curso
 de Análise e Desenvolvimento de Sistemas no IFSP - Campus Votuporanga.
