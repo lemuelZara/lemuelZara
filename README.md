@@ -1,4 +1,6 @@
-<img src="https://www.flaticon.com/svg/static/icons/svg/3079/3079112.svg" width="300px" align="right"/>
+### Meu perfil 😃
+
+<img src="https://www.flaticon.com/svg/static/icons/svg/3079/3079112.svg" width="300px" align="right" />
 
 ```typescript
 import { Bio, Skills } from '@dev';
@@ -17,3 +19,8 @@ const skills = Skills.config({
   os: ['Linux', 'Windows'],
 });
 ```
+
+<br>
+
+[![Linkedin](https://img.shields.io/badge/-Lemuel%20Coelho%20Zara-031CA6?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lemuelZara/)
+[![Gmail](https://img.shields.io/badge/-lemuel.czara@gmail.com-031CA6?style=flat&logo=Gmail&logoColor=white)](mailto:lemuel.czara@gmail.com)
