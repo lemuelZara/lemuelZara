@@ -14,7 +14,7 @@ const bio = Bio.config({
 
 const skills = Skills.config({
   languages: ['Javascript'],
-  databases: ['PostgreSQL', 'MongoDB'],
+  databases: ['PostgreSQL'],
   frameworks: ['Node.js', 'React.js'],
   os: ['Linux', 'Windows'],
 });
