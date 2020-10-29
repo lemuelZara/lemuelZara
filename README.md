@@ -1,7 +1,5 @@
 ### Meu perfil 😃
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/3079/3079112.svg" width="310px" align="right" />
-
 ```typescript
 import { Bio, Skills } from '@dev';
 
@@ -19,6 +17,9 @@ const skills = Skills.config({
   os: ['Linux', 'Windows'],
 });
 ```
+
+<img src="https://www.flaticon.com/svg/static/icons/svg/3079/3079112.svg" width="310px" align="right" />
+
 
 [![Linkedin](https://img.shields.io/badge/-Lemuel%20Coelho%20Zara-031CA6?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lemuelZara/)
 &nbsp;
