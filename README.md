@@ -1,6 +1,6 @@
 ### Meu perfil 😃
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/3079/3079112.svg" width="310px" align="left" />
+<img src="https://www.flaticon.com/svg/static/icons/svg/3079/3079112.svg" width="100px" align="left" />
 
 ```typescript
 import { Bio, Skills } from '@dev';
