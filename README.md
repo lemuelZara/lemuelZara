@@ -6,10 +6,10 @@
 [![Gmail](https://img.shields.io/badge/-lemuel.czara@gmail.com-031CA6?style=flat&logo=Gmail&logoColor=white)](mailto:lemuel.czara@gmail.com)
 
 
-:books: Atualmente aprendendo: 
-  - **Princípios SOLID**
-  - **Clean Code & Clean Architecture**
-  - **Teste Unitários & Testes de Integração**
-  - **TDD**
-  - **DDD**
-  - **Design Patterns**
+#### :books: Atualmente aprendendo: 
+  - Princípios SOLID
+  - Clean Code & Clean Architecture
+  - Teste Unitários & Testes de Integração
+  - TDD
+  - DDD
+  - Design Patterns
