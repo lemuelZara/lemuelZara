@@ -13,3 +13,5 @@
   - TDD
   - DDD
   - Design Patterns
+  - React e HTML & CSS
+  - Animações com Framer Motion
