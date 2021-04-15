@@ -5,6 +5,7 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/-lemuel.czara@gmail.com-031CA6?style=flat&logo=Gmail&logoColor=white)](mailto:lemuel.czara@gmail.com)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemuelZara&layout=compact&langs_count=8&theme=dracula" />
 
 #### :books: Atualmente aprendendo: 
   - Princípios SOLID
