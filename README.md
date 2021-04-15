@@ -5,7 +5,12 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/-lemuel.czara@gmail.com-031CA6?style=flat&logo=Gmail&logoColor=white)](mailto:lemuel.czara@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemuelZara&layout=compact&langs_count=4&theme=dracula)](https://github.com/lemuelZara/lemuelZara)
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemuelZara&layout=compact&langs_count=4&theme=dracula" height="150" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lemuelZara&hide=contribs,issues&theme=dracula" height="150" />
+</a>
 
 #### :books: Atualmente aprendendo: 
   - Princípios SOLID
