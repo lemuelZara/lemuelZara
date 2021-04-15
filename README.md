@@ -6,10 +6,10 @@
 [![Gmail](https://img.shields.io/badge/-lemuel.czara@gmail.com-031CA6?style=flat&logo=Gmail&logoColor=white)](mailto:lemuel.czara@gmail.com)
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemuelZara&layout=compact&langs_count=4&theme=dracula" height="150" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemuelZara&layout=compact&langs_count=4&theme=dracula" height="100" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lemuelZara&hide=contribs,issues&theme=dracula" height="150" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lemuelZara&hide=contribs,issues&theme=dracula" height="100" />
 </a>
 
 #### :books: Atualmente aprendendo: 
