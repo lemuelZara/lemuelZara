@@ -7,6 +7,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lemuelZara&hide=contribs,issues&theme=dracula" height="125" />
 </a>
 
+<br>
+
 ### :books: Atualmente aprendendo: 
   - Princípios SOLID
   - Clean Code & Clean Architecture
