@@ -9,8 +9,9 @@
 
 <br>
 
-### :books: Atualmente aprendendo: 
-  - Princípios SOLID
+### :books: Atualmente aprendendo:
+  - Node.js, Typescript, Prisma, TypeORM, PostgreSQL, API REST, etc
+  - Princípios do SOLID
   - Clean Code & Clean Architecture
   - Teste Unitários & Testes de Integração
   - TDD
