@@ -1,4 +1,6 @@
-### 😃 Meu perfil 
+<img align="center" src="https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80&h=200" />
+
+### 😃 Meu perfil
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemuelZara&layout=compact&langs_count=4&theme=dracula" height="125" />
