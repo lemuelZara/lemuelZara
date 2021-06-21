@@ -9,12 +9,15 @@
   <img src="https://img.shields.io/badge/JavaScript-fff?logo=javascript&logoColor=yellow" />
   <img src="https://img.shields.io/badge/HTML5-fff?logo=html5&logoColor=red" />
   <img src="https://img.shields.io/badge/CSS3-fff?logo=css3&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Node.js-fff?logo=Node.js&logoColor=green" />
   <img src="https://img.shields.io/badge/Express.js-fff?logo=express&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jest-fff?logo=jest&logoColor=red" />
   <img src="https://img.shields.io/badge/Prisma-fff?logo=prisma&logoColor=1A202C" />
   <img src="https://img.shields.io/badge/TypeORM-fff?logo=databricks&logoColor=orange" />
   <img src="https://img.shields.io/badge/React-fff?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/PostgreSQL-fff?logo=postgresql&logoColor=blue" />
   <img src="https://img.shields.io/badge/MongoDB-fff?logo=mongodb&logoColor=green" />
+  <img src="https://img.shields.io/badge/Docker-fff?logo=docker&logoColor=blue" />
   <img src="https://img.shields.io/badge/More...-fff" />
 </p>
 
