@@ -1,23 +1,19 @@
-<img align="center" src="https://images.unsplash.com/photo-1601677492421-a9ec2452ca57?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80&h=200" />
-
-<br>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-fff?logo=windows&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Linux_Mint-fff?logo=linux-mint&logoColor=green" />
-  <img src="https://img.shields.io/badge/TypeScript-fff?logo=typescript&logoColor=blue" />
-  <img src="https://img.shields.io/badge/JavaScript-fff?logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/HTML5-fff?logo=html5&logoColor=red" />
-  <img src="https://img.shields.io/badge/CSS3-fff?logo=css3&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Node.js-fff?logo=Node.js&logoColor=green" />
-  <img src="https://img.shields.io/badge/Express.js-fff?logo=express&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jest-fff?logo=jest&logoColor=red" />
-  <img src="https://img.shields.io/badge/Prisma-fff?logo=prisma&logoColor=1A202C" />
-  <img src="https://img.shields.io/badge/TypeORM-fff?logo=databricks&logoColor=orange" />
-  <img src="https://img.shields.io/badge/React-fff?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-fff?logo=postgresql&logoColor=blue" />
-  <img src="https://img.shields.io/badge/MongoDB-fff?logo=mongodb&logoColor=green" />
-  <img src="https://img.shields.io/badge/Docker-fff?logo=docker&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?logo=linux-mint&logoColor=fff" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff" />
+  <img src="https://img.shields.io/badge/TypeORM-F16521?logo=databricks&logoColor=fff" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
   <img src="https://img.shields.io/badge/More...-fff" />
 </p>
 
