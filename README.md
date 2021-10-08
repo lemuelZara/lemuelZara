@@ -29,10 +29,10 @@
 <br>
 
 ### :books: Atualmente aprendendo:
-  - Node.js, Typescript, Prisma, TypeORM, PostgreSQL, API REST, etc
+  - Node.js e React.js
   - Princípios do SOLID
   - Clean Code & Clean Architecture
-  - Teste Unitários & Testes de Integração
+  - Testes de Software
   - TDD
   - DDD
   - Design Patterns
