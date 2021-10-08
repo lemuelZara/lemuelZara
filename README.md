@@ -1,4 +1,16 @@
-<p align="center">
+### 😃 Meu perfil
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemuelZara&layout=compact&langs_count=4&theme=dracula" height="125" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lemuelZara&hide=contribs,issues&theme=dracula" height="125" />
+</a>
+
+<br>
+<br>
+
+<p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" />
@@ -12,17 +24,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
   <img src="https://img.shields.io/badge/More...-fff" />
 </p>
-
-### 😃 Meu perfil
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemuelZara&layout=compact&langs_count=4&theme=dracula" height="125" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lemuelZara&hide=contribs,issues&theme=dracula" height="125" />
-</a>
-
-<br>
 
 ### :books: Atualmente aprendendo:
   - Node.js e React.js
