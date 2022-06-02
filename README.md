@@ -1,6 +1,8 @@
 <div align="center">
-  <img align="center" src="assets/bfa94390-6097-4d7e-a342-9f63bd48307c.png" />
+  <img align="center" src="assets/profile.png" />
 </div>
+
+<br />
 
 <div align="center">
   <a href="mailto:lemuel.czara@gmail.com">
